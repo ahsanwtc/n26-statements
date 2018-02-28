@@ -1,0 +1,9 @@
+{
+  "name": "n26-statements",
+  "version": "1.0.0",
+  "description": "A simple client to generate transaction statements in a compact form, not wasting too much paper.",
+  "main": "index.js",
+  "repository": "git@github.com:ahsanwtc/n26-statements.git",
+  "author": "jsan",
+  "license": "MIT"
+}
